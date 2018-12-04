@@ -1,0 +1,47 @@
+
+.instagram {
+  float:right;
+  position: relative;
+  /* right: 40px; */
+  right: 400px
+}
+.sign-up-details {
+  float:right;
+  position: relative;
+}
+aside {
+  width: 350px;
+  border: 1px solid black;
+  padding: 25px;
+  margin: 30px;
+  position: relative;
+  bottom: 500px;
+  right:24%;
+}
+.footer-links {
+  float: right;
+}
+.sign-up-info {
+  font-weight: 600;
+    line-height: 20px;
+    font-size: 17px;
+    margin: 0 40px 10px;
+    text-align:center;
+    color: #999;
+}
+button  {
+    background-color: #3897f0;
+    border-radius: 8px 8px 8px 8px;
+    color: white;
+    text-align: center;
+    left: 30%;
+    position: relative;
+}
+.phone-number {
+  position: relative;
+  left: 20%
+}
+.phone-image {
+  position:relative;
+  left:200px;
+}
